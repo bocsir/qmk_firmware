@@ -7,7 +7,7 @@
         "bootmagic": true,
         "mousekey": true,
         "extrakey": true,
-        "rgb_matrix": true
+        "rgb_matrix": false
     },
     "ws2812": {
         "pin": "D3"
@@ -16,8 +16,8 @@
         "driver": "ws2812"
     },
     "matrix_pins": {
-        "cols": ["F5", "B6", "D7", "E6", "B4"],
-        "rows": ["F7", "C6", "D4", "B5"]
+        "cols": ["B6", "B2", "B3", "B1", "F7", "F6"],
+        "rows": ["B5", "B4", "E6", "D7"]
     },
     "diode_direction": "ROW2COL",
     "split": {
