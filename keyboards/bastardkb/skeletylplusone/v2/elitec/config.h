@@ -19,3 +19,5 @@
 
 /* Handedness. */
 #define MASTER_RIGHT
+
+#define TAPPING_TERM 100
